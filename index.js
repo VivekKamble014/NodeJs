@@ -1,10 +1,10 @@
 // importing chalk 
-import chalk from 'chalk';
+// import chalk from 'chalk';
 
-const log = console.log;
+// const log = console.log;
 
 // Combine styled and normal strings
-log(chalk.blue('Hello') + ' World' + chalk.red('!'));
+// log(chalk.blue('Hello') + ' World' + chalk.red('!'));
 
 // const app=require("./app")
 // console.log(app)
